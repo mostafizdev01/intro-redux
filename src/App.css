@@ -1,0 +1,36 @@
+.box{
+  color: #650aec;
+  text-align: center;
+}
+
+.btn{
+  background: linear-gradient(135deg, #7e31f1, #aa38d4);
+  color: white;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(126, 49, 241, 0.4);
+}
+
+.btn-2{
+  background: linear-gradient(135deg, #389bd4, #a431f1);
+  color: white;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(126, 49, 241, 0.4);
+}
+.jero{
+  display: inline;
+  color: green;
+  margin: 0 10px;
+  font-size: large;
+}
